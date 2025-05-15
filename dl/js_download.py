@@ -1,4 +1,9 @@
 #!/usr/bin/env python3
+
+# MIT License
+# Copyright (c) 2024 0pai
+# See LICENSE file for details
+
 import requests
 import os
 import sys

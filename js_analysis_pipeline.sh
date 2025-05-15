@@ -1,5 +1,9 @@
 #!/bin/bash
 
+# MIT License
+# Copyright (c) 2024 0pai
+# See LICENSE file for details
+
 # JSファイル収集・解析パイプライン
 # Bug Bounty向けJavaScript解析フレームワーク
 
